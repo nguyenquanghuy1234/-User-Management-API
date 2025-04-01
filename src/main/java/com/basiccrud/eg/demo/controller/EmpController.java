@@ -1,10 +1,10 @@
 package com.basiccrud.eg.demo.controller;
 
-import com.basiccrud.eg.demo.entity.EmployeeData;
-import com.basiccrud.eg.demo.service.EmpService;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.Page;
-import org.springframework.web.bind.annotation.*;
+// import com.basiccrud.eg.demo.entity.EmployeeData;
+// import com.basiccrud.eg.demo.service.EmpService;
+// import org.springframework.beans.factory.annotation.Autowired;
+// import org.springframework.data.domain.Page;
+// import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
